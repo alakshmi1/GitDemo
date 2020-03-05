@@ -87,7 +87,7 @@ var str2=" Karthick   "
 //String functions
 console.log(str1.charAt(2));
 console.log(str.indexOf('b'));
-console.log(str.concat(str2.trim()));
+console.log(str.concat(str1.trim()));
 console.log(str1.toUpperCase());
 console.log(str2.trim()); //trim() removes spaces in the given string
 console.log(str2.slice(1,7));
