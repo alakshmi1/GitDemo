@@ -8,7 +8,7 @@ describe('Handling Alerts',function() {
     element(by.id("confirmbtn")).click();
     browser.sleep(5000);
     
-    browser.switchTo().alert().dismiss();
+    browser.switchTo().alert().accept();
     element(by.buttonText('Home')).click();
     browser.sleep(5000);
     

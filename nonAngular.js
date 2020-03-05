@@ -1,4 +1,4 @@
-describe('Working on non Angular Apps', function()
+describe('Working on non Angular Applications', function()
 {
     it('Opening google home page', function()
     {
