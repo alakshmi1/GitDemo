@@ -1,7 +1,7 @@
 var Jasmine2HtmlReporter = require('protractor-jasmine2-html-reporter'); 
 exports.config = {
     //seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['Actions.js'],
+    specs: ['ElementBasics.js'],
     //onPrepare is executed before all the specs get executed; 
     //it is like a global pre-requisite for the entire test suite
     onPrepare: function() 
