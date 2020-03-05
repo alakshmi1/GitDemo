@@ -47,7 +47,7 @@ describe('Practise Ecom Website', function() {
       {
         if(text==0 )
         {
-          console.log("Hurray!!!There are no errors...");
+          console.log("Hurray!!!There are no errors..");
 
         }
         else
