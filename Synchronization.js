@@ -10,7 +10,7 @@ describe('Protractor Synchronization Demo', function() {
       browser.wait(EC.visibilityOf(element(by.id('results'))),5000);
       element(by.id('results')).getText().then(function(text)
       {
-        console.log(text);
+        console.log("Displayed text: "+text);
       })
     });
   });
