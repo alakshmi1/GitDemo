@@ -1,0 +1,21 @@
+module.exports.Datadriven=
+{
+    FirstData:
+    {
+    firstInput:"10",
+    secondInput:"20",
+    result:"30"
+    },
+    SecondData:
+    {
+    firstInput:"30",
+    secondInput:"40",
+    result:"70"
+    },
+    ThirdData:
+    {
+    firstInput:"3",
+    secondInput:"5",
+    result:"8"
+    }
+}
